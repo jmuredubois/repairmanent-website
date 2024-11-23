@@ -8,7 +8,7 @@ body{
   color:#a0a3ad;
   font-family:museo-sans,sans-serif;
   background:#111217;
-  background-image: url("images/photo_eric_202410.jpg");
+  background-image: url("images/photo_eric_202410_desat.jpg");
   background-size:cover;
   background-repeat: repeat-y;
   background-position:bottom
@@ -32,8 +32,7 @@ h1{
   margin-bottom:24px
 }
 .text-sm{font-size:16px;line-height:24px}
-.text-lg,
-.text-sm{font-family:museo-sans,sans-serif}
+.text-lg, .text-sm{font-family:museo-sans,sans-serif}
 .text-lg{font-size:30px;line-height:38px}
 .text-xl{font-family:museo-sans,sans-serif;font-size:60px;line-height:68px}
 .text-center{text-align:center}
@@ -47,7 +46,7 @@ h1{
 .main{
   flex:1;
   position:relative;
-  background-image:url("images/photo_eric_202410.jpg");
+  background-image:url("images/photo_eric_202410_desat.jpg");
   background-size:cover;
   background-repeat:no-repeat;
   background-position:bottom
