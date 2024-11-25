@@ -31,6 +31,9 @@ ul{
 h1{
   margin-bottom:24px
 }
+span.email b{
+	display:none;
+}
 .text-sm{font-size:16px;line-height:24px}
 .text-lg, .text-sm{font-family:museo-sans,sans-serif}
 .text-lg{font-size:30px;line-height:38px}
