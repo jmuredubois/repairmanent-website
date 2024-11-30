@@ -1,10 +1,10 @@
 # Repairmanent-website
 
-Une page web simple pour le Repairmanent à Neuchâtel.
+Une page web simple pour le Repairmanent à Neuchâtel : https://repairmanent.ch/
 
 ## Auteurs
 
-James Mure-Dubois
+James Mure-Dubois  
 Diego Fischer
 
 ## Licence
